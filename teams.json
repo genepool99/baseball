@@ -1,0 +1,272 @@
+{
+	"Los Angeles Dodgers": {
+		"team": "Dodgers",
+		"city": "Los Angeles",
+		"cshort":"LA",
+		"url":"LosAngelesDodgers",
+		"park":"Dodger Stadium",
+		"league":"NL",
+		"sabersim":"lad"
+	},
+	"Washington Nationals": {
+		"team": "Nationals",
+		"city": "Washington DC",
+		"cshort":"WSH",
+		"url":"WashingtonNationals",
+		"park":"Nationals Park",
+		"league":"NL",
+		"sabersim":"was"
+	},
+	"St. Louis Cardinals": {
+		"team": "Cardinals",
+		"city": "St. Louis",
+		"cshort":"STL",
+		"url":"St.LouisCardinals",
+		"park":"Busch Stadium",
+		"league":"NL",
+		"sabersim":"sln"
+	},
+	"Boston Red Sox": {
+		"team": "Red Sox",
+		"city": "Boston",
+		"cshort":"BOS",
+		"url":"BostonRedSox",
+		"park":"Fenway Park",
+		"league":"AL",
+		"sabersim":"bos"
+	},
+	"Detroit Tigers": {
+		"team": "Tigers",
+		"city": "Detroit",
+		"cshort":"DET",
+		"url":"DetroitTigers",
+		"park":"Comerica Park",
+		"league":"AL",
+		"sabersim":"det"
+	},
+	"San Diego Padres": {
+		"team": "Padres",
+		"city": "San Diego",
+		"cshort":"SD",
+		"url":"SanDiegoPadres",
+		"park":"Petco Park",
+		"league":"NL",
+		"sabersim":"sdn"
+	},
+	"Chicago Cubs": {
+		"team": "Cubs",
+		"city": "Chicago",
+		"cshort":"CHC",
+		"url":"ChicagoCubs",
+		"park":"Wrigley Field",
+		"league":"NL",
+		"sabersim":"chn"
+	},
+	"Seattle Mariners": {
+		"team": "Mariners",
+		"city": "Seattle",
+		"cshort":"SEA",
+		"url":"SeattleMariners",
+		"park":"Safeco Field",
+		"league":"AL",
+		"sabersim":"sea"
+	},
+	"Los Angeles Angels": {
+		"team": "Angels",
+		"city": "Los Angeles",
+		"cshort":"LAA",
+		"url":"LosAngelesAngels",
+		"park":"Angel Stadium of Anaheim",
+		"league":"AL",
+		"sabersim":"ana"
+	},
+	"New York Mets": {
+		"team": "Mets",
+		"city": "New York",
+		"cshort":"NYM",
+		"url":"NewYorkMets",
+		"park":"Citi Field",
+		"league":"NL",
+		"sabersim":"nyn"
+	},
+	"Kansas City Royals": {
+		"team": "Royals",
+		"city": "Kansas City",
+		"cshort":"KC",
+		"url":"KansasCityRoyals",
+		"park":"Kauffman Stadium",
+		"league":"AL",
+		"sabersim":"kca"
+	},
+	"New York Yankees": {
+		"team": "Yankees",
+		"city": "New York",
+		"cshort":"NYY",
+		"url":"NewYorkYankees",
+		"park":"Yankee Stadium",
+		"league":"AL",
+		"sabersim":"nya"
+	},
+	"Oakland A's": {
+		"team": "Athletics",
+		"city": "Oakland",
+		"cshort":"OAK",
+		"url":"OaklandA",
+		"park":"O.co Coliseum",
+		"league":"AL",
+		"sabersim":"oak"
+	},
+	"Toronto Blue Jays": {
+		"team": "Blue Jays",
+		"city": "Toronto",
+		"cshort":"TOR",
+		"url":"TorontoBluejays",
+		"park":"Rogers Centre",
+		"league":"AL",
+		"sabersim":"tor"
+	},
+	"Cleveland Indians": {
+		"team": "Indians",
+		"city": "Cleveland",
+		"cshort":"CLE",
+		"url":"ClevelandIndians",
+		"park":"Progressive Field",
+		"league":"NL",
+		"sabersim":"cln"
+	},
+	"Baltimore Orioles": {
+		"team": "Orioles",
+		"city": "Baltimore",
+		"cshort":"BAL",
+		"url":"BaltimoreOrioles",
+		"park":"Oriole Park at Camden Yards",
+		"league":"AL",
+		"sabersim":"bal"
+	},
+	"Pittsburgh Pirates": {
+		"team": "Pirates",
+		"city": "Pittsburgh",
+		"cshort":"PIT",
+		"url":"PittsburghPirates",
+		"park":"PNC Park",
+		"league":"NL",
+		"sabersim":"pit"
+	},
+	"Tampa Bay Rays": {
+		"team": "Rays",
+		"city": "Tampa Bay",
+		"cshort":"TB",
+		"url":"TampaBayRays",
+		"park":"Tropicana Field",
+		"league":"AL",
+		"sabersim":""
+	},
+	"Houston Astros": {
+		"team": "Astros",
+		"city": "Houston",
+		"cshort":"HOU",
+		"url":"HoustonAstros",
+		"park":"Minute Maid Park",
+		"league":"AL",
+		"sabersim":"hou"
+	},
+	"San Francisco Giants": {
+		"team": "Giants",
+		"city": "San Francisco",
+		"cshort":"SF",
+		"url":"SanFranciscoGiants",
+		"park":"AT&T Park",
+		"league":"NL",
+		"sabersim":"sfn"
+	},
+	"Chicago White Sox": {
+		"team": "White Sox",
+		"city": "Chicago",
+		"cshort":"CHW",
+		"url":"ChicagoWhiteSox",
+		"park":"U.S. Cellular Field",
+		"league":"AL",
+		"sabersim":"cha"
+	},
+	"Miami Marlins": {
+		"team": "Marlins",
+		"city": "Miami",
+		"cshort":"MIA",
+		"url":"MiamiMarlins",
+		"park":"Marlins Park",
+		"league":"NL",
+		"sabersim":"mia"
+	},
+	"Colorado Rockies": {
+		"team": "Rockies",
+		"city": "Colorado",
+		"cshort":"COL",
+		"url":"ColoradoRockies",
+		"park":"Coors Field",
+		"league":"NL",
+		"sabersim":"col"
+	},
+	"Cincinnati Reds": {
+		"team": "Reds",
+		"city": "Cincinnati",
+		"cshort":"CIN",
+		"url":"CincinnatiReds",
+		"park":"Great American Ball Park",
+		"league":"NL",
+		"sabersim":"cin"
+	},
+	"Atlanta Braves": {
+		"team": "Braves",
+		"city": "Atlanta",
+		"cshort":"ATL",
+		"url":"AtlantaBraves",
+		"park":"Turner Field",
+		"league":"NL",
+		"sabersim":"atl"
+	},
+	"Arizona Diamondbacks": {
+		"team": "Diamondbacks",
+		"city": "Arizona",
+		"cshort":"ARI",
+		"url":"ArizonaDiamondbacks",
+		"park":"Chase Field",
+		"league":"NL",
+		"sabersim":"air"
+	},
+	"Milwaukee Brewers": {
+		"team": "Brewers",
+		"city": "Milwaukee",
+		"cshort":"MIL",
+		"url":"MilwaukeeBrewers",
+		"park":"Miller Park",
+		"league":"NL",
+		"sabersim":"mil"
+	},
+	"Texas Rangers": {
+		"team": "Rangers",
+		"city": "Texas",
+		"cshort":"TEX",
+		"url":"TexasRangers",
+		"park":"Rangers Ballpark in Arlington",
+		"league":"AL",
+		"sabersim":"tex"
+	},
+	"Minnesota Twins": {
+		"team": "Twins",
+		"city": "Minnesota",
+		"cshort":"MIN",
+		"url":"MinnesotaTwins",
+		"park":"Target Field",
+		"league":"AL",
+		"sabersim":"min"
+	},
+	"Philadelphia Phillies": {
+		"team": "Phillies",
+		"city": "Philadelphia",
+		"cshort":"PHI",
+		"url":"PhiladelphiaPhillies",
+		"park":"Citizens Bank Park",
+		"league":"NL",
+		"sabersim":"phi"
+	}
+}
