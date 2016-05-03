@@ -1,2 +1,4 @@
 # baseball
-code snippets I use for pulling baseball data 
+code snippets and other useful things
+
+
