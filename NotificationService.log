@@ -1,0 +1,21 @@
+12:18 AM May 24, 2017 - EDT - CRON[uld]: Starting update of local databases
+12:18 AM May 24, 2017 - EDT - CRON[uld]: Getting data/bZiPSPre - http://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zips&team=0&lg=all&players=0
+Log opened at /home/avi/temp/baseball12:23 AM May 24, 2017 - EDT - CRON[uld]: Starting update of local databases
+12:23 AM May 24, 2017 - EDT - CRON[uld]: Getting data/bZiPSPre - http://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zips&team=0&lg=all&players=0
+Log opened at /home/avi/temp/baseball12:26 AM May 24, 2017 - EDT - CRON[uld]: Starting update of local databases
+12:26 AM May 24, 2017 - EDT - CRON[uld]: Getting data/bZiPSPre - http://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zips&team=0&lg=all&players=0
+Log opened at /home/avi/temp/baseball12:28 AM May 24, 2017 - EDT - CRON[uld]: Starting update of local databases
+12:28 AM May 24, 2017 - EDT - CRON[uld]: Getting data/bZiPSPre - http://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zips&team=0&lg=all&players=0
+12:28 AM May 24, 2017 - EDT - CRON[uld]: Getting data/pDCRoS - http://www.fangraphs.com/projections.aspx?pos=all&stats=pit&type=rfangraphsdc&team=0&lg=all&players=0
+12:28 AM May 24, 2017 - EDT - CRON[uld]: [ERROR] unable to download data/pDCRoS - http://www.fangraphs.com/leaders.aspx?pos=all&stats=rel&lg=all&qual=0&type=8&season=2016&month=0&season1=2016&ind=0&team=0,ts&rost=0&age=0&filter=&players=0
+12:28 AM May 24, 2017 - EDT - CRON[uld]: Local DB Update Complete.
+Log opened at /home/avi/temp/baseball12:35 AM May 24, 2017 - EDT - Getting data/bZiPSPre - http://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zips&team=0&lg=all&players=0
+12:35 AM May 24, 2017 - EDT - Getting data/pDCRoS - http://www.fangraphs.com/projections.aspx?pos=all&stats=pit&type=rfangraphsdc&team=0&lg=all&players=0
+12:35 AM May 24, 2017 - EDT - Getting data/bpActual - http://www.fangraphs.com/leaders.aspx?pos=all&stats=rel&lg=all&qual=0&type=8&season=2016&month=0&season1=2016&ind=0&team=0,ts&rost=0&age=0&filter=&players=0
+12:35 AM May 24, 2017 - EDT - Getting data/pActual - http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0
+12:35 AM May 24, 2017 - EDT - Getting data/bZiPSRoS - http://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=rzips&team=0&lg=all&players=0
+12:35 AM May 24, 2017 - EDT - Getting data/pZiPSPre - http://www.fangraphs.com/projections.aspx?pos=all&stats=pit&type=zips&team=0&lg=all&players=0
+12:35 AM May 24, 2017 - EDT - Getting data/bActual - http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=8&season=2016&month=0&season1=2016&ind=0&team=&rost=&age=&filter=&players=
+12:35 AM May 24, 2017 - EDT - Getting data/pZiPSRoS - http://www.fangraphs.com/projections.aspx?pos=all&stats=pit&type=rzips&team=0&lg=all&players=0
+12:35 AM May 24, 2017 - EDT - Getting data/bDCRoS - http://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=rfangraphsdc&team=0&lg=all&players=0
+12:35 AM May 24, 2017 - EDT - CRON[uld]: Local DB Update Complete.

@@ -13,6 +13,7 @@ os.chdir(dname)
 log = open(dname + '/NotificationService.log', 'a')        # Open log file to append
 now = datetime.now(timezone('US/Eastern'))
 fmt = "%I:%M %p %b %d, %Y - %Z"
+log.write("Log opened at " + str(dname))
 
 def remove_bom_from_file(filename, newfilename):
     if os.path.isfile(filename):
@@ -37,7 +38,6 @@ def remove_bom_from_file(filename, newfilename):
         nf.write(contents)
         nf.close()
 
-log.write(now.strftime(fmt) + " - CRON[uld]: Starting update of local databases\n")
 b = spynner.Browser()
 #b.debug_level = spynner.DEBUG
 
@@ -58,7 +58,7 @@ for url in urls:
     for attempt in range(10):
         try:
             b.load(urls[url])
-            b.wait_load(20)
+            b.wait_load(10)
         except:
             continue
         else:
@@ -68,17 +68,13 @@ for url in urls:
         break
     
     filename = "data/" + url 
-    log.write(now.strftime(fmt) + " - CRON[uld]: Getting " + filename + " - " + urls[url] + "\n")
+    log.write(now.strftime(fmt) + " - Getting " + filename + " - " + urls[url] + "\n")
     if "projections" in urls[url]:
         b.click("#ProjectionBoard1_cmdCSV", wait_load=True)
-        b.wait(30)
-        os.rename('www.fangraphs.com/projections.aspx/\"FanGraphs Leaderboard.csv\"', filename + "BOM.csv") 
+        b.wait(10)
     elif "leaders" in urls[url]:
         b.click("#LeaderBoard1_cmdCSV", wait_load=True)
-        b.wait(30)
-        os.rename('www.fangraphs.com/leaders.aspx/\"FanGraphs Leaderboard.csv\"', filename + "BOM.csv")
-    remove_bom_from_file(filename + "BOM.csv", filename + ".csv")
-    os.remove(filename + "BOM.csv")
+        b.wait(10)
     
 log.write(now.strftime(fmt) + " - CRON[uld]: Local DB Update Complete.\n")
 
